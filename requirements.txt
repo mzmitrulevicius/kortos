@@ -1,0 +1,4 @@
+csv
+requests
+selenium
+bs4
